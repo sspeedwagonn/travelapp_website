@@ -65,4 +65,4 @@ const FeatureItem = ({ title, icon, description }: FeatureItem) => {
   )
 }
 
-export default Features
+export default Features;
